@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=F79FCFEA&width=435&lines=%E7%9F%A5%E4%B8%8D%E8%B6%B3%E8%80%8C%E5%A5%8B%E8%BF%9B%EF%BC%8C%E6%9C%9B%E8%BF%9C%E5%B1%B1%E8%80%8C%E5%89%8D%E8%A1%8C" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&pause=1000&color=E6F739EA&width=435&lines=%E7%9F%A5%E4%B8%8D%E8%B6%B3%E8%80%8C%E5%A5%8B%E8%BF%9B%EF%BC%8C%E6%9C%9B%E8%BF%9C%E5%B1%B1%E8%80%8C%E5%89%8D%E8%A1%8C" alt="Typing SVG" /></a>
+
 <!--
 **yizhigee/yizhigee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
